@@ -1,6 +1,6 @@
 var PhoneOne = {
     phone: "images/iphone11.jpg",
-    name:"iphone 11",
+    name:"iphone11",
     price:98499,
     originalPrice:102459,
     itemId:"1001"
@@ -8,7 +8,7 @@ var PhoneOne = {
 
 var PhoneTwo = {
     phone: "images/iphone12.jpg",
-    name:"iphone 12",
+    name:"iphone12",
     price:10000,
     originalPrice:100000,
     itemId:"1002",
@@ -16,7 +16,7 @@ var PhoneTwo = {
 
 var phoneThree = {
     phone:"images/iphone13.jpg",
-    name:"iphone 13",
+    name:"iphone13",
     price:97499,
     originalPrice:102249,
     itemId:"1003"
@@ -24,9 +24,9 @@ var phoneThree = {
 
 var phoneFour = {
     phone:"images/iphone14.jpg",
-    name:"iphone 14",
-    price: "NOW" + 19999,
-    originalPrice: "WAS" + 200000,
+    name:"iphone14",
+    price:19999,
+    originalPrice:200000,
     itemId:"1004"
 
 }

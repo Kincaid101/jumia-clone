@@ -1,6 +1,6 @@
 var PhoneOne = {
     phone: "images/iphone11.jpg",
-    name:"iphone 11",
+    name:"iphone11",
     price: "Now " +98499,
     originalPrice: "Was "+ 102459,
     itemId:"I001"
@@ -12,19 +12,19 @@ document.getElementById("original1").innerText = PhoneOne.originalPrice
 
 var PhoneTwo = {
     phone: "images/iPhone12.jpg",
-    name:"iphone 12",
+    name:"iphone12",
     price: "Now " +10000,
     originalPrice: "Was "+ 100000,
     itemId:"1002"
 }
-document.getElementById("Iphone12").src=PhoneTwo.phone
+document.getElementById("Iphone12").src = PhoneTwo.phone
 document.getElementById("name2").innerText = PhoneTwo.name
 document.getElementById("price2").innerText = PhoneTwo.price
 document.getElementById("original2").innerText = PhoneTwo.originalPrice
 
 var phoneThree = {
     phone:"images/iphone13.jpg",
-    name:"iphone 13",
+    name:"iphone13",
     price: "Now "+ 97499,
     originalPrice: "Was " +102249,
     itemId:"1003"
@@ -36,9 +36,9 @@ document.getElementById("original3").innerText = phoneThree.originalPrice
 
 var phoneFour = {
     phone:"images/iphone14.jpg",
-    name:"iphone 14",
+    name:"iphone14",
     price: "Now " + 19999,
-    originalPrice: "Was " + 200000,
+    originalPrice: "Was " +200000,
     itemId:"1004"
 
 }
